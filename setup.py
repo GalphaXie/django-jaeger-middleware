@@ -20,11 +20,10 @@ setup(
     version=md['version'],
     description='python(django) tracing middleware tool: django-jaeger-middleware',
     long_description=long_description,
-    long_description_content_type='text/markdown',
     author=md['author'],
     author_email=md['authoremail'],
-    url="https://git.ucloudadmin.com",
-    download_url='https://git.ucloudadmin.com/securityhouse/pyservice/django-jaeger-middleware',
+    url="https://github.com/GalphaXie/django-jaeger-middleware",
+    download_url='https://github.com/GalphaXie/django-jaeger-middleware',
     install_requires=[
         "jaeger_client",
     ],
