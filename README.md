@@ -17,7 +17,7 @@ For example:
 ```
 MIDDLEWARE = [
 	...
-	'django-jaeger-middleware.middleware.JaegerMiddleWare'
+	'django_jaeger_middleware.middleware.JaegerMiddleWare'
 ]
 ```
 
